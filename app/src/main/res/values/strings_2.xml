@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Tela de Carregamento -->
+    <string name="texto_carregamento1">Esse grande projeto foi fundado por uma prima da Vivi, que após o seu falecimento, criou este grupo chamado “VIVI É VIDA” , uma vontade que brotou no coração para realização de ações sociais de apoio às crianças e adolescentes acometidos dessa doença tão trágica: o câncer. </string>
+    <string name="texto_carregamento2">Este é um grupo para levar alegria, esperança e até mesmo ajuda material, na medida das arrecadaçõe, um grupo sem fins lucrativos, de pessoas voluntárias para fazer o bem.</string>
+    <string name="texto_carregamento3">Tivemos nossa primeira ação social no dia 16/12/2017. Foi um dia de muita diversão e transformação.</string>
+    <string name="texto_carregamento4">No dia 16/12/2017(dia da nossa primeira ação) nós visitamos 3 locais diferentes :\n 1 - Lar Amigo de Jesus;\n 2 - Casa de Jeremias;\n 3 - A comunidade do Pau Fininho (localizada próxima a lagoa do papicu)</string>
+    <string name="texto_carregamento5">O projeto Vivi é Vida ajuda cerca de 11 instituições de caridade, fora as comunidades nas quais o projeto promove ações e eventos</string>
+    <string name="texto_carregamento6">Curiosidade 6</string>
+    <!--
+    <string name="texto_carregamento7">Curiosidade 7</string>
+    <string name="texto_carregamento8">Curiosidade 8</string>
+    <string name="texto_carregamento9">Curiosidade 9</string> -->
+
+    <string name="txtTelaInicio">  -  O grupo “vivi é vida” é um grupo sem fins lucrativos composto por pessoas dispostas a fazer o bem, principalmente às crianças e adultos portadores de câncer, inspirado no amor da Vivi.\n\n
+          -  Viviane Brito Bastos, “Vivi”, veio, viveu e venceu. Nasceu em 10 de maio de 1986 e de imediato foi luz e alegria para seus pais, para os amigos e para toda a nossa família. Nos 31 anos de vida só nos encheu com sua bondade, carinho e amor.
+          \n\n  -  Para Vivi, não existia derrota, medo, escuridão nem desesperança, ela se saiu triunfante em todos os aspectos na sua curta trajetória na dimensão terrestre. Agora, na eternidade junto do Divino, vai continuar sendo inspiração.\n\n
+          -  Viviane Bastos faleceu no dia 18 de novembro de 2017, decorrente de um cancêr de mama.</string>
+
+    <string name="textCardView1">
+         As doações para o projeto podem ser realicadas de 2 maneiras : \n\n
+        - 1: Você pode estar entrando em contato com a organização do projeto por meio do telefone (85)98660-9070 ;\n\n
+        - 2: Você pode estar levando as suas doações pessualmente no dia em que estiver ocorrendo alguma ação do projeto nas ONGs. \n\n
+        OBS: Você pode ficar sabendo sobre as próximas ações do projeto Vivi é Vida através das redes socias (no menu lateral) ou entrando em contato com Viviane Bastos através do número (85)98660-9070.
+    </string>
+
+    <string name="textCardView2">
+        -  Para você que quer participar do projeto Vivi é Vida e ficar por dentro de todas as atualizações e eventos, nós possuimos além das redes sociais,
+        como facebook e instagram, também possuimos um grupo no whatsapp.\n\n
+        - Caso você queira ficar por dentro de tudo, principalmente, onde e quando será o
+        próximo evento, basta ligar para o número (85)98660-9070 ou entrar em contato pelo whatsapp para ficar por dentro de tudo e ser inserido no grupo.\n\n
+        - Ou, também pode entrar em contato pelas redes sociais citadas e pedir para ser inserido no grupo.
+    </string>
+
+    <string name="textCardView3">
+        - Esse aplicativo foi desenvolvido como atividade avaliativa  da disciplina de Projeto Aplicado 3, ministrada pelos professores Lucas Moura e Alzir Falcão, no primeiro semestre de 2019.
+    </string>
+
+    <string name="textCardView4">
+        - Matheus Juan Bezerra Cândido;\n
+        - Cleuton Pontes Aguiar Junior;\n
+        - José Alexandre Alves Neto;\n
+        - Fred Alexandre Sales Rodrigues;\n
+    </string>
+
+    <string name="eventos1" tools:ignore="TypographyEllipsis">
+        Mais uma linda e abençoada ação do grupo Vivi é Vida. Hoje, no Hospital do Coração em Messejana.
+        💕 Derrama, Senhor, muitas bençãos na vida dos teus filhos que sofrem...
+        Que encontrem amor, esperança, força e muita fé. Pedimos também saúde! Amém? 🙏🙏🙏🙏🙏  </string>
+    <string name="eventos2">
+        Mais uma visita emocionante na Casa Sol Nascente, tanto no lar dos adultos como no lar das crianças. 💕
+        Aqui, fica um apelo para que as pessoas façam as doações, que podem ser entregues diretamente nos lares. Vamos ajudar?
+        Lar Sol Nascente: avenida Alberto Craveiro, n. 2222. </string>
+    <string name="eventos3" tools:ignore="TypographyEllipsis">
+        É alegria que você quer? É amor que você quer? "Pois é dando que se recebe..." 💕
+        Junte-se ao grupo, vem! 🤗 A ação de hoje foi no Lar Amigos de Jesus e foi MUITO prazerosa. 🙏  </string>
+
+    <string name="proximo1">
+    No dia 28/06 estaremos no Instituto do Câncer com mais um evento para ajudar aqueles que tanto precissão de nossa ajuda. (evento meramente fictício)</string>
+    <string name="proximo2">
+        No dia 10/07 estaremos na Oficina do senhor com mais um evento para ajudar aqueles que tanto precissão de nossa ajuda. (evento meramente fictício)</string>
+    <string name="proximo3">
+       No dia 16/07 estaremos no Hospital do coração com mais um evento para ajudar aqueles que tanto precissão da nossa ajuda. (evento meramente fictício)</string>
+
+</resources>

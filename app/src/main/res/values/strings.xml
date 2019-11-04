@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Projeto Vivi é Vida</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="id_projeto">Vivi é Vida</string>
+    <string name="id_pFrase">"Veio, viveu e venceu"</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="map_key" translatable="false">AIzaSyBIl3R1HjnG3ClcnqIGBazU1QC4t1yivAI</string>
+
+    <string name="fragment1"> Eventos </string>
+    <string name="fragment2"> Próximos </string>
+
+</resources>

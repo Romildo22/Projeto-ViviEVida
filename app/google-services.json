@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "1096957206332",
+    "firebase_url": "https://vivi-e-vida.firebaseio.com",
+    "project_id": "vivi-e-vida",
+    "storage_bucket": "vivi-e-vida.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096957206332:android:40f76d73d9ed21f2",
+        "android_client_info": {
+          "package_name": "com.example.projetovivivida"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1096957206332-o08i403m7eie0ivkqg6gimsmsn3900j3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.projetovivivida",
+            "certificate_hash": "08d2f2d6ea3daddd71c37991b91f8091d8c19b94"
+          }
+        },
+        {
+          "client_id": "1096957206332-38kki8f46im2hu0ed3qfcfhuob2ucdnc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAE2_gBHrLxmDHnz2Y28iG2X_JFQPW4NSg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1096957206332-38kki8f46im2hu0ed3qfcfhuob2ucdnc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096957206332:android:d584cb45c59805f9",
+        "android_client_info": {
+          "package_name": "com.example.pvv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1096957206332-38kki8f46im2hu0ed3qfcfhuob2ucdnc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAE2_gBHrLxmDHnz2Y28iG2X_JFQPW4NSg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1096957206332-38kki8f46im2hu0ed3qfcfhuob2ucdnc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

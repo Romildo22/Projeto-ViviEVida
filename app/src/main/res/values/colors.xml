@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <color name="colorPrimary">#D81B60</color>
+    <color name="colorPrimaryDark">#B31750</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="cinza_medio">#DBDBDB</color>
+    <color name="fundo_apresentacao">#0160ad</color>
+    <color name="progress">#3ba47c</color>
+    <color name="fundoInicio">#80C2AB</color>
+    <color name="corTxtToolbar">#FFFFFF</color>
+
+</resources>

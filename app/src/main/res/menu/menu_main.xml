@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+      <item android:title="     Informações do Projeto">
+    <menu>
+
+        <item
+            android:id="@+id/btn_SobreProjeto"
+            android:icon="@drawable/ic_content_paste_black_24dp"
+            android:title="Sobre o projeto" />
+        <item
+            android:id="@+id/btn_JuntarProjeto"
+            android:icon="@drawable/ic_assignment_white_24dp"
+            android:title="Como se juntar ao Projeto" />
+        <item
+            android:id="@+id/btn_ONGs"
+            android:icon="@drawable/ic_ongs_24dp"
+            android:title="ONG'S" />
+    </menu>
+      </item>
+
+    <item android:title="     Redes Sociais">
+        <menu>
+            <item
+                android:id="@+id/btn_Instagram"
+                android:icon="@drawable/ic_public_black_24dp"
+                android:title="Nos acompanhe no Instagram" />
+            <item
+                android:id="@+id/btn_Facebook"
+                android:icon="@drawable/ic_public_black_24dp"
+                android:title="Nos acompanhe no Facebook" />
+        </menu>
+    </item>
+
+
+    <item android:title="     Outros">
+    <menu>
+        <item android:id="@+id/btn_App"
+              android:icon="@drawable/ic_library_add_black_24dp"
+              android:title="Sobre o aplicativo"/>
+
+        <item android:id="@+id/btn_Sair"
+              android:icon="@drawable/ic_exit_to_app_black_24dp"
+              android:title="Logout" />
+    </menu>
+    </item>
+
+</menu>
